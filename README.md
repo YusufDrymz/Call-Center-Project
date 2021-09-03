@@ -1,2 +1,1 @@
-# veri-yapilari-proje
-Veri Yapıları Proje
+# Veri Yapıları Proje
