@@ -1,2 +1,2 @@
 # veri-yapilari-proje
-Veri Yapıları Ptoje
+Veri Yapıları Proje
